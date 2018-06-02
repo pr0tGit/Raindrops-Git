@@ -11,5 +11,10 @@ namespace Raindrops_Git
         static void Main(string[] args)
         {
         }
+
+        public static string Convert(int number)
+        {
+            throw new NotImplementedException("You need to implement this function.");
+        } // end of Convert method
     }
 }
